@@ -281,7 +281,8 @@ void Error_Handler(void)
 
 
 ## Output screen shots of proteus  :
-![WhatsApp Image 2025-10-10 at 10 26 38_f9da75df](https://github.com/user-attachments/assets/848a76cb-5714-4950-8600-719ed43e2472)
+<img width="1600" height="946" alt="WhatsApp Image 2026-09-04 at 10 41 25 PM" src="https://github.com/user-attachments/assets/175748b2-fe7f-4792-9526-bb48eeb0e971" />
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
